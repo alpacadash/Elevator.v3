@@ -1,0 +1,10 @@
+﻿  ElevatorSimulation.cpp
+  ElevatorSimulationDlg.cpp
+  VisualBuilding.cpp
+  VisualElevator.cpp
+C:\Users\dudeh\Desktop\2022 Spring\COMP200\Elevator.3\Elevator.cpp(48,20): warning C4018: '<': signed/unsigned mismatch
+  VisualFloor.cpp
+  VisualRider.cpp
+  Generating Code...
+C:\Users\dudeh\Desktop\2022 Spring\COMP200\Elevator.3\Elevator.cpp(60,20): warning C4018: '<': signed/unsigned mismatch
+  ElevatorSimulation.vcxproj -> C:\Users\dudeh\Desktop\2022 Spring\COMP200\Elevator.3\.\Release\ElevatorSimulation.exe
